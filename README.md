@@ -9,7 +9,7 @@ git init
 Clone the repository
 
 ```
-git clone url
+git clone https://github.com/Johndev85/backen-stripe-test.git
 ```
 
 ### Installing
