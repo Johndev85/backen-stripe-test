@@ -22,7 +22,7 @@ const stripe = require("stripe")(config.UK_STRIPE)
 //   next()
 // })
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "*",
   optionsSuccessStatus: 200, // For legacy browser support
   methods: "GET, PUT, POST, OPTIONS, DELETE, PATCH",
 }
