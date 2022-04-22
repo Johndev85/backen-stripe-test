@@ -1,6 +1,6 @@
 ## Getting Started
 
-To get the project you should create a git in your local computer
+To get the project you should create a git in your local computer.
 
 ```
 git init
