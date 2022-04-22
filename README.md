@@ -14,7 +14,7 @@ git clone https://github.com/Johndev85/backen-stripe-test.git
 
 ### Installing
 
-To install the project you should execute the next commands.
+To install the project you should execute the next commands..
 
 ### Install
 
